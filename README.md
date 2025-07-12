@@ -130,9 +130,8 @@
 （如果项目对你有用，也可以请我喝杯咖啡 ☕️ ~）
 
 
-
 <p align="center">
-  <kbd><img src="https://github.com/user-attachments/assets/b656f3d9-d3b8-4815-88d3-b55e302106bf" alt="赞赏码" width="200"/></kbd>
+  <kbd><img src="https://github.com/user-attachments/assets/195ab37d-bc51-44a2-9330-e4df9dbf67dc" alt="赞赏码" width="200"/></kbd>
 </p>
 
 ## 🗺️ 路线图 (Roadmap)
