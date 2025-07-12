@@ -123,11 +123,13 @@
 可以加Omni-bot的开发者交流群，请注明omni-bot，机器人会自动通过，每天自动通过人数有限，请耐心等待
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/1764eb83-3405-44dd-8619-747ce5eac5cc" alt="交流群" width="300">
-    <img src="https://github.com/user-attachments/assets/ddc64016-e928-4492-9338-a85e20fa3de0" alt="群主bot"width="300">
+    <img src="https://github.com/user-attachments/assets/8b735832-a8e8-4800-a46b-46a891fa7d8b" alt="交流群" width="300">
+    <img src="https://github.com/user-attachments/assets/16db82a1-6032-4c4b-8287-8dfbb3be70ce" alt="群主bot"width="300">
 </p>
 
 （如果项目对你有用，也可以请我喝杯咖啡 ☕️ ~）
+
+
 
 <p align="center">
   <kbd><img src="https://github.com/user-attachments/assets/b656f3d9-d3b8-4815-88d3-b55e302106bf" alt="赞赏码" width="200"/></kbd>
